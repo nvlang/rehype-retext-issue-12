@@ -1,0 +1,16 @@
+{
+  "name": "rehype-retext-bug",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "i": "^0.3.7",
+    "rehype": "^13.0.0",
+    "rehype-parse": "^9.0.0",
+    "rehype-retext": "^4.0.0",
+    "rehype-stringify": "^10.0.0",
+    "retext-english": "^5.0.0",
+    "unified": "^11.0.4"
+  }
+}
